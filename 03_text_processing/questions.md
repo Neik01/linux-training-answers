@@ -13,7 +13,7 @@
 **Dựa vào các câu lệnh trên thực hiện các yêu cầu sau đối với file `web_access.log`**
 
 3. Trích các xuất danh sách các địa chỉ IP không trùng lặp có trong file log.
-
+   
 4. Tìm các yêu cầu có status code là 500.
 
 5. Đếm số lượng của mỗi loại phương thức truy cập GET/POST/PUT/DELETE.

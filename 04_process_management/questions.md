@@ -17,6 +17,6 @@
 5. Làm cách nào để thay đổi độ ưu tiên của một tiến trình?
 
 6. Tìm hiểu chức năng của các lệnh sau?
-- bg
+- bg:
 - fg
 - nohup
