@@ -21,7 +21,6 @@
 7. 
 ```bash
     sudo userdel -r user1
-    sudo userdel user2
+    sudo userdel archived_user 
     sudo groupdel developers
-    sudo groupdel user1
 ```
