@@ -35,7 +35,7 @@ Giải thích:
     + `EnvironmentFile`: File biến môi trường
     + `ExecStart`: Câu lệnh thực thi khi service khởi động
     + `IgnoreSIGPIPE`: Phớt lờ tín hiệu SIGPIPE hay không
-    + `KillMode`: Chỉ định cách mà tiến trình
+    + `KillMode`: Chỉ định cách mà tiến trình sẽ bị hủy bỏ
     + `Restart`: Xác định xem khi nào service nên tự khởi động lại
 - `[Install]`: Thông tin về tiến trình cài đặt
     + `WantedBy`: Chỉ định target sẽ khởi chạy service này khi hệ thống chạm đến target
